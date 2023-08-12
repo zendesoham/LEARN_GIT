@@ -1,6 +1,6 @@
 #milestone project code
 
-#Display board
+#Display board func
 
 def display_board(b):
     print('\n')
